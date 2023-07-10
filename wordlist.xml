@@ -2,7 +2,6 @@
 <categories>
     <category>
         <name>Popular U.S. Cities</name>
-        <words>
             <word>LosAngeles</word>
             <word>SanDiego</word>
             <word>Miami</word>
@@ -13,11 +12,9 @@
             <word>Nashville</word>
             <word>Chicago</word>
             <word>Austin</word>
-        </words>
     </category>
     <category>
         <name>Summer Words</name>
-        <words>
             <word>Swimming</word>
             <word>Tanning</word>
             <word>Sunny</word>
@@ -28,6 +25,5 @@
             <word>Hot</word>
             <word>Sand</word>
             <word>Sandcastle</word>
-        </words>
     </category>
 </categories>
